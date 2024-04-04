@@ -4,7 +4,7 @@
 
 <p>I am Joaquín Navarro, a programmer from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I am currently studing at UNSAM</p><br/>
 
-📫: joaquin@navarro.com
+📫: joanavarro23@hotmail.com
 
 <h3>Herramientas con las que trabajo/Tools I work with:</h3>
 <p>  
