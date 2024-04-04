@@ -18,8 +18,7 @@
 
 ### Más sobre mí/More about me:  
 <!--- [<img align="left" alt="Website"        width="30px" src="https://img.icons8.com/?size=80&id=i5AvNTkFop7s&format=png" />][website] --->
-[<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
-[<img align="left" alt="lichess"      width="27px" src="https://avatars.githubusercontent.com/u/16491637?v=4" />][lichess]
+
 
 
 <!--- [website]: https://lcaravaggio.github.io/ ---> 
