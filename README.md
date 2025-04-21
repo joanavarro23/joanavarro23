@@ -1,8 +1,8 @@
 <h1>Sobre mi/About me:</h1>
 
-<p>Soy Joaquín Navarro, programador de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Actualmente estoy cursando en la UNSAM</p>
+<p>Soy Joaquín Navarro, programador de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Actualmente estoy estudiando en la UNSAM</p>
 
-<p>I am Joaquín Navarro, a programmer from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I am currently studing at UNSAM</p><br/>
+<p>I am Joaquín Navarro, a programmer from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I am currently studying at UNSAM</p><br/>
 
 📫: joanavarro23@hotmail.com
 
