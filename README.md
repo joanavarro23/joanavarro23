@@ -1,41 +1,40 @@
 <h1>Sobre mi/About me:</h1>
 
-<p>Soy Joaquín Navarro, programador de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Actualmente estoy estudiando en la UNSAM</p>
+<p>Soy Joaquín Navarro, programador de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Actualmente estoy estudiando la tecnicatura en programación informática en la UNSAM.</p>
 
-<p>I am Joaquín Navarro, a programmer from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I am currently studying at UNSAM</p><br/>
+<p>Soy un desarrollador full-stack con experienca creando aplicaciones web en React y Svelte 5, y realizando conexión con un backend desarrollado en Kotlin y Spring Boot</p>
 
-📫: joanavarro23@hotmail.com
+<p>I am Joaquín Navarro, a programmer from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I am currently pursuing a University Technical Degree in Computer Programming at UNSAM.</p>
 
-<h3>Herramientas con las que trabajo/Tools I work with:</h3>
-<p>  
-  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p>I am a full-stack developer with experience building web applications using React and Svelte 5, and integrating them with a backend developed in Kotlin and Spring Boot.</p>
 
+<h2>Algunos de mis proyectos/Some of my projects:</h2>
+
+<ul>
+  <li><b>React</a></b> - Proyecto grupal de <a href="https://github.com/joanavarro23/algo-que-pedir-2025-react-grupo2.git">front-end</a> utilizando Chakra UI y conectado a backend desarrollado en Kotlin.</li>
+  <li><b>Svelte</b> - Proyecto grupal de <a href="https://github.com/joanavarro23/algo-que-pedir-2025-grupo2.git">front-end</a>, maquetado con HTML y CSS y conexión al backend desarrollado en Kotlin.</li>
+  <li><b>Kotlin</b> - Proyecto grupal de <a href="https://github.com/joanavarro23/backend-kotlin.git">backend</a> aplicando conceptos de patrones de diseño y Spring Boot.</li>
+  <li><b>C</b> - Trabajo grupal final de manejo de <a>archivos</a>.</li>
+  <li><b>Python</b> - Trabajo grupal utilizando <a>Pygame</a> y desarrollo de una <a href="https://github.com/joanavarro23/tp-mate3-red.git">red neuronal</a> para predecir probabilidades de un accidente cerebrovascular.</li>
+  <li><b>Wollok</b> - Trabajo grupal de desarrollo de un <a href="https://github.com/joanavarro23/tp-wollok.git">videojuego</a> con software educativo para aprender conceptos de OOP.</li>
+</ul>
+
+<h2>Herramientas con las que trabajo/Tools I work with:</h2>
+<p align=center>    
+  <img src="assets/kotlin.svg" alt="Kotlin Logo" height=60 width=60>
+  <img src="assets/c.svg" alt="C Logo" height=60 width=60>
+  <img src="assets/python.svg" alt="Python Logo" height=60 width=60>
+  <img src="assets/git.svg" alt="Git Logo" height=60 width=60>
+  <img src="assets/Svelte_Logo.svg" alt="Svelte Logo" height=60 width=60>
+  <img src="assets/react.svg" alt="React Logo" height=60 width=60>
+  <img src="assets/Spring_Boot.svg" alt="Spring Boot Logo" height=60 width=60>
+  <img src="assets/Typescript_logo_2020.svg" alt="Typescript Logo" height=60 width=60>
+  <img src="assets/Pandas_mark.svg" alt="Typescript Logo" height=60 width=60>
+  <img src="assets/wollok.png" alt="Wollok Logo" height=60 width=60>
 </p>
 
-### Más sobre mí/More about me:  
-<!--- [<img align="left" alt="Website"        width="30px" src="https://img.icons8.com/?size=80&id=i5AvNTkFop7s&format=png" />][website] --->
-
-
-
-<!--- [website]: https://lcaravaggio.github.io/ ---> 
-
-
-<!---
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-Todas las medallas de https://github.com/Ileriayo/markdown-badges
+<h2>Contacto/Contact</h2>
+<ul>
+  <li>Mail: <a href="mailto:www.joanavarro23@hotmail.com">joanavarro23@hotmail.com</a></li>
+  <li>Perfil de <a href="https://www.linkedin.com/in/joanavarro23/">Linkedin</a></li>
+</ul>
