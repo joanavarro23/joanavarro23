@@ -13,7 +13,7 @@
 <ul>
   <li><b>React</a></b> - Proyecto grupal de <a href="https://github.com/joanavarro23/algo-que-pedir-2025-react-grupo2.git">front-end</a> utilizando Chakra UI y conectado a backend desarrollado en Kotlin.</li>
   <li><b>Svelte</b> - Proyecto grupal de <a href="https://github.com/joanavarro23/svelte-algo-que-pedir.git">front-end</a>, maquetado con HTML y CSS y conexión al backend desarrollado en Kotlin.</li>
-  <li><b>Kotlin</b> - Proyecto grupal de <a href="https://github.com/joanavarro23/backend-kotlin.git">backend</a> aplicando conceptos de patrones de diseño y Spring Boot.</li>
+  <li><b>Kotlin</b> - Proyecto grupal de <a href="https://github.com/joanavarro23/algo-que-pedir-backend.git">backend</a> aplicando conceptos de patrones de diseño y Spring Boot.</li>
   <li><b>C</b> - Trabajo grupal final de manejo de <a>archivos</a>.</li>
   <li><b>Python</b> - Trabajo grupal utilizando <a>Pygame</a> y desarrollo de una <a href="https://github.com/joanavarro23/tp-mate3-red.git">red neuronal</a> para predecir probabilidades de un accidente cerebrovascular.</li>
   <li><b>Wollok</b> - Trabajo grupal de desarrollo de un <a href="https://github.com/joanavarro23/tp-wollok.git">videojuego</a> con software educativo para aprender conceptos de OOP.</li>
