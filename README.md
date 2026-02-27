@@ -11,7 +11,7 @@
 <h2>Algunos de mis proyectos/Some of my projects:</h2>
 
 <ul>
-  <li><b>React</a></b> - Proyecto grupal de <a href="https://github.com/joanavarro23/algo-que-pedir-2025-react-grupo2.git">front-end</a> utilizando Chakra UI y conectado a backend desarrollado en Kotlin.</li>
+  <li><b>React</a></b> - Proyecto grupal de <a href="https://github.com/joanavarro23/react-algo-que-pedir.git">front-end</a> utilizando Chakra UI y conectado a backend desarrollado en Kotlin.</li>
   <li><b>Svelte</b> - Proyecto grupal de <a href="https://github.com/joanavarro23/svelte-algo-que-pedir.git">front-end</a>, maquetado con HTML y CSS y conexión al backend desarrollado en Kotlin.</li>
   <li><b>Kotlin</b> - Proyecto grupal de <a href="https://github.com/joanavarro23/algo-que-pedir-backend.git">backend</a> aplicando conceptos de patrones de diseño y Spring Boot.</li>
   <li><b>C</b> - Trabajo grupal final de manejo de <a>archivos</a>.</li>
